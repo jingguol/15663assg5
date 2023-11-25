@@ -1,0 +1,1 @@
+script.py contains all codes for this assignment. Some parts of the script may need to be commented/uncommented/changed to perform input/output correctly.
